@@ -12,6 +12,9 @@ html {
   background-color: #f4f4f4;
 }
 
+body {
+  background-color: #241D24;
+
 #hero {
   background: url("Images/Skyline.JPG");
   width: 1100px;
